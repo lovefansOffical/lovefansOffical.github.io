@@ -43,13 +43,14 @@ h1
 h2
 {
     font-size: 5rem;
+    white-space: nowrap;
 }
 
 h3
 {   
     width: fit-content;
-    font-size: 4rem;
-    white-space: nowrap;
+    /* font-size: 4rem; */
+    
 }
 
 h4
