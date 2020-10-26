@@ -447,7 +447,11 @@ a:hover
 
     letter-spacing: .025em;
 }
-
+.hero  li{
+    font-size: 1.8rem;
+    font-weight: 300;
+    line-height: 1.5em;
+}
 .hero .front-content .container-mid .download-button
 {
     font-size: 1.8rem;
