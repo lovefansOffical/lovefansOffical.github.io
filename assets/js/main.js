@@ -71,5 +71,7 @@ jQuery(document).ready(function($) {
         autoplay: true,
     });
     
-    
+    $('#btn').on('click',function(){
+        window.heap.track('lovefans_download_click')
+    })
 });
